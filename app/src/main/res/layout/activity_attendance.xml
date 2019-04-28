@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1"
+        >
+        <TableRow
+            android:gravity="center"
+            >
+
+            <TextView
+                android:text="Branch :"
+                android:layout_width="wrap_content"
+                android:textStyle="bold"
+                android:textSize="19dp"
+                android:padding="3dp"
+                android:gravity="center"
+                android:id="@+id/textView1"
+                android:textColor="#000000"
+                />
+            <fr.ganfra.materialspinner.MaterialSpinner
+                android:id="@+id/Spinner1"
+                app:ms_arrowColor="#0000ff"
+                app:ms_arrowSize="10dp"
+                app:ms_floatingLabelColor="#A9A9A9"
+                app:ms_hint="Select Branch"
+                app:ms_hintColor="#000000"
+                />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
