@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217913910058",
+    "firebase_url": "https://emad3-8512d.firebaseio.com",
+    "project_id": "emad3-8512d",
+    "storage_bucket": "emad3-8512d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217913910058:android:05a71e761e73b44f",
+        "android_client_info": {
+          "package_name": "com.example.emad3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217913910058-ei0dk28souqq2qtsc9oj44l6mg87mrkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emad3",
+            "certificate_hash": "fa8965baf106d4ac333a03642378faff73cb2715"
+          }
+        },
+        {
+          "client_id": "217913910058-qb46ac3s0lsbll9j5ngdjdt6inahk42h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIAG21QHsPCri-FFgJQVObruJ8bhknJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217913910058-qb46ac3s0lsbll9j5ngdjdt6inahk42h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
